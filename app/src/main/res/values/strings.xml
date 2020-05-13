@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyBluetooth</string>
+    <string name="switch_bluetooth">Switch bluetooth</string>
+    <string name="discovery">Discovery</string>
+    <string name="buttondiscover">ButtonDisvover</string>
+</resources>
